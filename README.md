@@ -4,7 +4,7 @@
 
 ## Background
 
-Immunogenicity is the ability of a particular substance, such as an antigen or epitope, to provoke an immune response in the body of a human and other animal. In other words, immunogenicity is the ability to induce a humoral and/or cell-mediated immune responses.
+Immunogenicity is the ability of a particular substance, such as a small molecule drug, protein therapeutic, or vaccine, to provoke an immune response in the body of a human and other animal. In other words, immunogenicity is the ability to induce a humoral and/or cell-mediated immune responses.
 
 Wanted immunogenicity is typically related with vaccines, where the injection of an antigen (the vaccine) provokes an immune response against the pathogen (virus, bacteria...) aiming at protecting the organism. Vaccine development is a complex multi-step process, immunogenicity being at the center of vaccine efficacy.
 
