@@ -1,4 +1,4 @@
-# Immunogenicity Checking Algorithm
+# Immune Epitope Database API Wrapper with PyMol Integration
 
 <img src="./imgs/mAb-unalteredd.png" width="40%" height="40%"> <img src="./imgs/mAb-altered.png" width="40%" height="40%">
 
