@@ -1,4 +1,7 @@
 # Immunogenicity Checking Algorithm
+
+<img src="./imgs/mAb-unaltered.png" width="25%" height="25%"> <img src="./imgs/mAb-altered.png" width="25%" height="25%">
+
 Immunogenicity is the ability of a particular substance, such as an antigen or epitope, to provoke an immune response in the body of a human and other animal. In other words, immunogenicity is the ability to induce a humoral and/or cell-mediated immune responses.
 
 Wanted immunogenicity is typically related with vaccines, where the injection of an antigen (the vaccine) provokes an immune response against the pathogen (virus, bacteria...) aiming at protecting the organism. Vaccine development is a complex multi-step process, immunogenicity being at the center of vaccine efficacy.
