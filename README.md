@@ -1,6 +1,6 @@
 # Immunogenicity Checking Algorithm
 
-<img src="./imgs/mAb-unaltered.png" width="25%" height="25%"> <img src="./imgs/mAb-altered.png" width="25%" height="25%">
+<img src="./imgs/mAb-unaltered.png" width="50%" height="50%"> <img src="./imgs/mAb-altered.png" width="50%" height="50%">
 
 ## Background
 
